@@ -12,6 +12,6 @@ void range(int num,int i, int j){
 }
 
 int main(){
-    range(15,1,3);
+    range(31,1,3);
     return 0;
 }
